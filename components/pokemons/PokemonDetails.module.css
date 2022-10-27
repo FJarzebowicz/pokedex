@@ -1,0 +1,54 @@
+.mainContainer {
+  margin-left: 4vw;
+  display: flex;
+  flex-direction: row;
+}
+.pokeIndex {
+  font-size: 21px;
+}
+
+.name {
+  font-size: 60px;
+  font-family: "Permanent Marker";
+}
+
+.contentContainer {
+  margin-left: 3vw;
+  margin-top: -3vh;
+}
+
+.detailsContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.statsText {
+  font-size: 25px;
+  margin-left: 1vw;
+  font-family: "Permanent Marker";
+}
+
+.statsContainer {
+  margin-left: 15vw;
+  margin-top: -5vh;
+}
+
+.typesContainer {
+  margin-top: 2vh;
+  list-style: none;
+}
+
+.singleType {
+  font-family: "Permanent Marker";
+  font-size: 50px;
+}
+
+.typesLabel {
+  font-family: "Permanent Marker";
+  color: #5f8c63;
+  font-size: 28px;
+}
+
+.allTypesDetailsContainer {
+  margin-top: 3vh;
+}

@@ -1,0 +1,15 @@
+.card {
+  width: 25vw;
+  height: 40vh;
+  background-color: #fced47;
+  border-radius: 25px;
+  margin-bottom: 5vh;
+
+  box-shadow: rgba(80, 80, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.card:hover {
+  box-shadow: rgba(80, 80, 93, 0.25) 3px 9px 15px 1px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}

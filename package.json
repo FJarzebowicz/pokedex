@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/permanent-marker": "^4.5.7",
+    "@fontsource/quicksand": "^4.5.11",
+    "@reduxjs/toolkit": "^1.8.6",
     "next": "13.0.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-rainbow-components": "^1.31.0",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "eslint": "8.26.0",
